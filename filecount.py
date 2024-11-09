@@ -44,6 +44,6 @@ def plot_folder_word_counts(root_directory):
     # plt.tight_layout()
     # plt.show()
 
-# Replace 'D:\\TSpec-LLM\\3GPP-clean' with your actual root directory
-root_directory = "D:\\TSpec-LLM\\3GPP-clean"
+# Replace 'D:\\Spec\\3GPP-clean' with your actual root directory
+root_directory = "D:\\Spec\\3GPP-clean"
 plot_folder_word_counts(root_directory)
